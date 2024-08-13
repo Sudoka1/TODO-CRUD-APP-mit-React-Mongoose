@@ -7,7 +7,7 @@ Single Page App mit React (Bestehendes Todo oder Task-Projekt darf verwendet wer
 Backend mit Node.js und mongoose;
 Der User soll Todos, erstellen, bearbeiten & löschen können;
 Verwende Middlewares um die Usereingaben zu validieren;
-Das Design der App soll modern & mit Glasmorphism Effekt sein;
+Das Design der App soll modern & mit Glasmorphism Effekt sein.
 
 
 # Frontend

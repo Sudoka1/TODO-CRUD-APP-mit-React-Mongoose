@@ -1,6 +1,8 @@
 # TODO-CRUD-APP-mit-React-Mongoose
 
+
 ## Baue eine TODO-CRUD-APP mit React & Mongoose
+
 ### Anforderungen:
 ### Github Repository;
 ### Single Page App mit React (Bestehendes Todo oder Task-Projekt darf verwendet werden);
@@ -11,6 +13,7 @@
 
 
 ## Frontend
+
 ### Technologien: HTML, CSS, JavaScript, React oder Vue.js.
 
 ### Funktionen:
@@ -19,7 +22,9 @@
 ### Aufgaben hinzufügen, bearbeiten und löschen: Benutzer können neue Aufgaben hinzufügen, bestehende Aufgaben bearbeiten und erledigte Aufgaben löschen.
 ### Aufgaben priorisieren und sortieren: Aufgaben können nach Priorität oder Fälligkeitsdatum sortiert werden.
 
+
 ## Backend
+
 ### Technologien: Node.js mit Express, MongoDB.
 
 ### Funktionen:
